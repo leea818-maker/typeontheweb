@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@700&display=swap');
+p{ 
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+word-spacing: -3;
+ margin: 0;
+}
+
+h1{ 
+text-align: left;
+font-size: 140px;
+  margin: 0;
+   font-family: "Pixelify Sans";
+   letter-spacing: -18px;
+}
+
+h2{ 
+text-align: left;
+font-family: 'Times New Roman', Times, serif;
+font-size: 80px;
+margin: 0%;
+font-weight: normal;
+}
+
+h2 small {
+    font-size: 20px;
+}
+
+h3{
+    text-align: left;
+font-family: 'Times New Roman', Times, serif;
+font-size: 80px;
+margin: 0;
+font-weight: normal;
+}
+
+h3 small {
+    font-size: 20px;
+}
+
+body {
+    width: 500px;
+    margin: 10px auto 0;
+    text-align: left;
+    font-family: Georgia;
+    background-color: #fff4e6;
+}
+
+
+
+body {
+    border: 1px solid black;
+    padding: 30px;
+}
